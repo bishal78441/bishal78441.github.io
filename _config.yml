@@ -102,7 +102,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://www.facebook.com/bishal.timsina.2002
+avatar: https://scontent.fktm17-1.fna.fbcdn.net/v/t39.30808-6/420184779_1608718229966837_5432455141878140983_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFPPEo7_3ibxYSWUouKNAivrI4Up-1DNtusjhSn7UM22_hZUXOkiWoVjwlb_awOLGAR4GMMgZRxlvpfHKotcj-B&_nc_ohc=DrYwe3hOTCsQ7kNvgF-7Wc8&_nc_ht=scontent.fktm17-1.fna&oh=00_AYC-jvrXkfQghazylKQqYD36hE6z0iV3V8ci3I2m9NgTyQ&oe=66D5CBFA
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
